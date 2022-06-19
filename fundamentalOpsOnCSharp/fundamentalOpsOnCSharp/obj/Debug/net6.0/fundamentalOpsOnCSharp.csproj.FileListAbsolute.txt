@@ -1,0 +1,15 @@
+C:\Users\Resad\source\repos\fundamentalOpsOnCSharp\fundamentalOpsOnCSharp\bin\Debug\net6.0\fundamentalOpsOnCSharp.exe
+C:\Users\Resad\source\repos\fundamentalOpsOnCSharp\fundamentalOpsOnCSharp\bin\Debug\net6.0\fundamentalOpsOnCSharp.deps.json
+C:\Users\Resad\source\repos\fundamentalOpsOnCSharp\fundamentalOpsOnCSharp\bin\Debug\net6.0\fundamentalOpsOnCSharp.runtimeconfig.json
+C:\Users\Resad\source\repos\fundamentalOpsOnCSharp\fundamentalOpsOnCSharp\bin\Debug\net6.0\fundamentalOpsOnCSharp.dll
+C:\Users\Resad\source\repos\fundamentalOpsOnCSharp\fundamentalOpsOnCSharp\bin\Debug\net6.0\fundamentalOpsOnCSharp.pdb
+C:\Users\Resad\source\repos\fundamentalOpsOnCSharp\fundamentalOpsOnCSharp\obj\Debug\net6.0\fundamentalOpsOnCSharp.csproj.AssemblyReference.cache
+C:\Users\Resad\source\repos\fundamentalOpsOnCSharp\fundamentalOpsOnCSharp\obj\Debug\net6.0\fundamentalOpsOnCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Resad\source\repos\fundamentalOpsOnCSharp\fundamentalOpsOnCSharp\obj\Debug\net6.0\fundamentalOpsOnCSharp.AssemblyInfoInputs.cache
+C:\Users\Resad\source\repos\fundamentalOpsOnCSharp\fundamentalOpsOnCSharp\obj\Debug\net6.0\fundamentalOpsOnCSharp.AssemblyInfo.cs
+C:\Users\Resad\source\repos\fundamentalOpsOnCSharp\fundamentalOpsOnCSharp\obj\Debug\net6.0\fundamentalOpsOnCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Resad\source\repos\fundamentalOpsOnCSharp\fundamentalOpsOnCSharp\obj\Debug\net6.0\fundamentalOpsOnCSharp.dll
+C:\Users\Resad\source\repos\fundamentalOpsOnCSharp\fundamentalOpsOnCSharp\obj\Debug\net6.0\refint\fundamentalOpsOnCSharp.dll
+C:\Users\Resad\source\repos\fundamentalOpsOnCSharp\fundamentalOpsOnCSharp\obj\Debug\net6.0\fundamentalOpsOnCSharp.pdb
+C:\Users\Resad\source\repos\fundamentalOpsOnCSharp\fundamentalOpsOnCSharp\obj\Debug\net6.0\fundamentalOpsOnCSharp.genruntimeconfig.cache
+C:\Users\Resad\source\repos\fundamentalOpsOnCSharp\fundamentalOpsOnCSharp\obj\Debug\net6.0\ref\fundamentalOpsOnCSharp.dll
